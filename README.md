@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/)
 -
-<h2>📺 Certifications </h2>
+<h2>📃 Certifications </h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/certificate/HG4N5BUDX2WE)
 
 
 <h2> 🤳 Connect with me:</h2>
