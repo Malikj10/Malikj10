@@ -1,10 +1,7 @@
-<h1>Hi, Malik! </h1>
+<h1>Hi, my name is Malik! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/)
--
 <h2>📃 Certifications </h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/certificate/HG4N5BUDX2WE)
