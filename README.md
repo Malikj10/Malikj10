@@ -6,7 +6,7 @@
 <h2>📃 Certifications </h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/certificate/HG4N5BUDX2WE)
-
+- [Comptia Security+](https://acrobat.adobe.com/id/urn:aaid:sc:us:474c868a-e683-41cd-9063-3f6cd396533b)
 
 <h2> 🤳 Connect with me:</h2>
 
