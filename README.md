@@ -5,7 +5,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
   - [Active Directory Homelab](https://github.com/Malikj10/Active-Directory-Home-Lab-Project)
-
+  - [Microsoft Azure Honeypot Lab With attacks!](https://github.com/Malikj10/Microsoft-Azure-Project/tree/main)
+  - More projects Soon!
 <h2>📃 Certifications </h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/certificate/HG4N5BUDX2WE)
