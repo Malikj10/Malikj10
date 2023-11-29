@@ -9,7 +9,7 @@
   - More projects Soon!
 <h2>📃 Certifications </h2>
 
-- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/certificate/HG4N5BUDX2WE)
+- [Google Google Cybersecurity Professional Certificate](https://coursera.org/share/bab6156cd3f9d56f58bcd65b1b30322a)
 - [Comptia Security+](https://acrobat.adobe.com/id/urn:aaid:sc:us:474c868a-e683-41cd-9063-3f6cd396533b)
 
 <h2> 🤳 Connect with me:</h2>
