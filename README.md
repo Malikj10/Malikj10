@@ -1,12 +1,14 @@
-<h1>Hi, my name is Malik! </h1>
+<h1>Hi, my name is Malik!👋 </h1>
 
-- USAF Vet & Cybersecurity Professional!
+USAF Vet & Cybersecurity Professional! Passionate about everything Cybersecurity and dedicated to evolving my expertise in threat analysis. 🛡️🔒
+  
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
   - [Active Directory Homelab](https://github.com/Malikj10/Active-Directory-Home-Lab-Project)
   - [Microsoft Azure Honeypot Lab With attacks!](https://github.com/Malikj10/Microsoft-Azure-Project/tree/main)
   - More projects Soon!
+    
 <h2>📃 Certifications </h2>
 
 - [Google Google Cybersecurity Professional Certificate](https://coursera.org/share/bab6156cd3f9d56f58bcd65b1b30322a)
