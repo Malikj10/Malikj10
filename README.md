@@ -1,4 +1,4 @@
-<h1>Hi, my name is Malik! 👋👋🏾 </h1>
+<h1>Hi, my name is Malik! 👋🏾 </h1>
 
 USAF Vet & Cybersecurity Professional! Passionate about everything Cybersecurity and dedicated to evolving my expertise in threat analysis. 🛡️🔒
   
@@ -17,7 +17,7 @@ USAF Vet & Cybersecurity Professional! Passionate about everything Cybersecurity
 
 <h2> 🤳 Connect with me:</h2>
 
-👉🏾 [<img align="left" alt="Malik Johnson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 👈🏾
+ [<img align="left" alt="Malik Johnson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 👈🏾
 
 
 [linkedin]: https://www.linkedin.com/in/malik-johnson-6460a5225 
