@@ -8,6 +8,7 @@ USAF Vet & Cybersecurity Professional! Passionate about everything Cybersecurity
   - [Active Directory Homelab](https://github.com/Malikj10/Active-Directory-Home-Lab-Project) 💼
   - [Microsoft Azure Honeypot Lab With attacks!](https://github.com/Malikj10/Microsoft-Azure-Project/tree/main) ⚔️
   - [Security Operations Center Endpoint Detection and Response Homelab - with MALWARE!](https://github.com/Malikj10/SOC-EDR-homelab) 🦠🛡️
+  - [Packet Analysis Lab with -intro to tcpump and Wireshark](https://github.com/Malikj10/Packet-Analysis-Lab) 🔍👀
   - More projects Soon!
     
 <h2>📃 Certifications </h2>
