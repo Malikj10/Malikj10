@@ -24,4 +24,5 @@ USAF Vet & Cybersecurity Professional! Passionate about everything Cybersecurity
 [linkedin]: https://www.linkedin.com/in/malik-johnson-6460a5225 
 
 <h2> Or check out my website! ⚠️ </h2>
+
 [MJ Cybervault](https://mjcybervault.tech)
